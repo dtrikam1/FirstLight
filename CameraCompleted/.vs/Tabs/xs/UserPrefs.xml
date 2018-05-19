@@ -1,9 +1,13 @@
 ﻿<Properties StartupConfiguration="{573FE0A7-D64E-4D36-9B2F-3745B5672BAF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/Model/EvaluationModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/AzureTable.xaml">
     <Files>
       <File FileName="Tabs/CustomVision.xaml" Line="13" Column="15" />
       <File FileName="Tabs/CustomVision.xaml.cs" Line="69" Column="57" />
-      <File FileName="Tabs/Model/EvaluationModel.cs" Line="12" Column="25" />
+      <File FileName="Tabs/Model/EvaluationModel.cs" Line="17" Column="42" />
+      <File FileName="Tabs/DataModels/FirstLightLandMarkInformation.cs" Line="1" Column="1" />
+      <File FileName="Tabs/AzureManager.cs" Line="18" Column="95" />
+      <File FileName="Tabs/AzureTable.xaml.cs" Line="12" Column="28" />
+      <File FileName="Tabs/AzureTable.xaml" Line="18" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />

@@ -46,5 +46,9 @@
 	<string>This app needs access to the camera to take photos.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>New Entry</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>AppName wants to use your location for ...?</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>AppName is using your location.</string>
 </dict>
 </plist>

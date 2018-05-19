@@ -1,21 +1,22 @@
 ﻿<Properties StartupConfiguration="{573FE0A7-D64E-4D36-9B2F-3745B5672BAF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/AzureTable.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/CustomVision.xaml">
     <Files>
-      <File FileName="Tabs/CustomVision.xaml" Line="13" Column="15" />
+      <File FileName="Tabs/CustomVision.xaml" Line="5" Column="47" />
       <File FileName="Tabs/CustomVision.xaml.cs" Line="69" Column="57" />
       <File FileName="Tabs/Model/EvaluationModel.cs" Line="17" Column="42" />
-      <File FileName="Tabs/DataModels/FirstLightLandMarkInformation.cs" Line="1" Column="1" />
-      <File FileName="Tabs/AzureManager.cs" Line="18" Column="95" />
-      <File FileName="Tabs/AzureTable.xaml.cs" Line="12" Column="28" />
-      <File FileName="Tabs/AzureTable.xaml" Line="18" Column="36" />
+      <File FileName="Tabs/DataModels/FirstLightLandMarkInformation.cs" Line="16" Column="3" />
+      <File FileName="Tabs/AzureManager.cs" Line="18" Column="1" />
+      <File FileName="Tabs/AzureTable.xaml.cs" Line="23" Column="16" />
+      <File FileName="Tabs/AzureTable.xaml" Line="36" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Tabs.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.57021a971c61824cd4f522c2adeb8c9ebad29042" />
+  <MonoDevelop.Ide.ItemProperties.Tabs.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4BBF3BEF-F912-4C9F-81DC-4B6CF64A919A" automaticSigning="False" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Tabs.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
 </Properties>

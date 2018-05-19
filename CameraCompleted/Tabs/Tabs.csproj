@@ -102,6 +102,12 @@
     <Reference Include="Microsoft.Azure.Mobile.Client">
       <HintPath>..\packages\Microsoft.Azure.Mobile.Client.4.0.2\lib\portable-net45+win8+wp8+wpa81\Microsoft.Azure.Mobile.Client.dll</HintPath>
     </Reference>
+    <Reference Include="Xamarin.Forms.Maps.Design">
+      <HintPath>..\packages\Xamarin.Forms.Maps.3.0.0.482510\lib\netstandard1.0\Xamarin.Forms.Maps.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Maps">
+      <HintPath>..\packages\Xamarin.Forms.Maps.3.0.0.482510\lib\netstandard1.0\Xamarin.Forms.Maps.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

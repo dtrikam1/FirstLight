@@ -50,5 +50,10 @@
 	<string>AppName wants to use your location for ...?</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>AppName is using your location.</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
 </dict>
 </plist>

@@ -9,5 +9,6 @@
             <local:AzureTable />
         </x:Arguments>
     </NavigationPage>
+    <local:VideoPlayer />
     <local:CustomVision />
 </TabbedPage>

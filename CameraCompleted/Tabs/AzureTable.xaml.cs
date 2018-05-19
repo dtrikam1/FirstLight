@@ -21,18 +21,24 @@ namespace Tabs
 		async void Handle_ClickedAsync(object sender, System.EventArgs e)
         {
             loading.IsRunning = true;
-			List<FirstLightLandMarkInformation> firstLightLandMarkInformation = await AzureManager.AzureManagerInstance.GetFirstLightLandMarkInformation();
+			//List<FirstLightLandMarkInformation> firstLightLandMarkInformation = await AzureManager.AzureManagerInstance.GetFirstLightLandMarkInformation();
 
-			foreach (FirstLightLandMarkInformation model in firstLightLandMarkInformation)
-            {
-                var position = new Position(model.Latitude, model.Longitude);
-                var possibleAddresses = await geoCoder.GetAddressesForPositionAsync(position);
-                foreach (var address in possibleAddresses)
-                    model.City = address;
-            }
+			//foreach (FirstLightLandMarkInformation model in firstLightLandMarkInformation)
+   //         {
+   //             var position = new Position(model.Latitude, model.Longitude);
+   //             var possibleAddresses = await geoCoder.GetAddressesForPositionAsync(position);
+   //             foreach (var address in possibleAddresses)
+   //                 model.City = address;
+   //         }
 
-			FirstLightLandMarkInformationList.ItemsSource = firstLightLandMarkInformation;
+			//FirstLightLandMarkInformationList.ItemsSource = firstLightLandMarkInformation;
+			var mainPage = new NavigationPage(new VideoPlayer());
+			await Navigation.PushAsync(new VideoPlayer());
+
             loading.IsRunning = false;
         }
     }
 }
+
+
+

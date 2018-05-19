@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{573FE0A7-D64E-4D36-9B2F-3745B5672BAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/Model/EvaluationModel.cs">
+    <Files>
+      <File FileName="Tabs/CustomVision.xaml" Line="13" Column="15" />
+      <File FileName="Tabs/CustomVision.xaml.cs" Line="69" Column="57" />
+      <File FileName="Tabs/Model/EvaluationModel.cs" Line="12" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tabs.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.57021a971c61824cd4f522c2adeb8c9ebad29042" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tabs.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>

@@ -84,6 +84,8 @@ namespace Tabs
                     double max = responseModel.Predictions.Max(m => m.Probability);
 
 					//TagLabel.Text = (max >= 0  ) ? "Captain James Cook Located: " + max.ToString() : "No Land Mark Found: " + max.ToString();
+					var mainPage = new NavigationPage(new VideoPlayer());
+                    await Navigation.PushAsync(new VideoPlayer());
 
                 }
 

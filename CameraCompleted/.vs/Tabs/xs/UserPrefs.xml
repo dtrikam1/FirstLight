@@ -1,20 +1,20 @@
 ﻿<Properties StartupConfiguration="{573FE0A7-D64E-4D36-9B2F-3745B5672BAF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/AzureTable.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabs/TabsPage.xaml">
     <Files>
       <File FileName="Tabs/CustomVision.xaml" Line="8" Column="45" />
-      <File FileName="Tabs/CustomVision.xaml.cs" Line="86" Column="129" />
+      <File FileName="Tabs/CustomVision.xaml.cs" Line="20" Column="35" />
       <File FileName="Tabs/Model/EvaluationModel.cs" Line="17" Column="42" />
       <File FileName="Tabs/DataModels/FirstLightLandMarkInformation.cs" Line="16" Column="3" />
       <File FileName="Tabs/AzureManager.cs" Line="18" Column="1" />
-      <File FileName="Tabs/AzureTable.xaml.cs" Line="36" Column="30" />
+      <File FileName="Tabs/AzureTable.xaml.cs" Line="35" Column="4" />
       <File FileName="Tabs/AzureTable.xaml" Line="2" Column="156" />
-      <File FileName="iOS/Main.cs" Line="16" Column="1" />
+      <File FileName="iOS/Main.cs" Line="13" Column="10" />
       <File FileName="Tabs/VideoPlayer.cs" Line="1" Column="1" />
-      <File FileName="Tabs/VideoPlayer.xaml" Line="2" Column="230" />
+      <File FileName="Tabs/VideoPlayer.xaml" Line="2" Column="245" />
       <File FileName="Tabs/VideoPlayer.xaml.cs" Line="25" Column="30" />
       <File FileName="iOS/AppDelegate.cs" Line="14" Column="84" />
       <File FileName="Tabs/TabsPage.xaml.cs" Line="9" Column="35" />
-      <File FileName="Tabs/TabsPage.xaml" Line="12" Column="20" />
+      <File FileName="Tabs/TabsPage.xaml" Line="13" Column="41" />
       <File FileName="iOS/Info.plist" />
       <File FileName="Tabs/App.xaml.cs" Line="11" Column="21" />
     </Files>

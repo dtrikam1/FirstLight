@@ -10,5 +10,9 @@
         </x:Arguments>
     </NavigationPage>
     <local:VideoPlayer />
-    <local:CustomVision />
+       <NavigationPage Title="Find More!">
+        <x:Arguments>
+            <local:CustomVision />
+        </x:Arguments>
+    </NavigationPage>
 </TabbedPage>
